@@ -13,6 +13,7 @@ Color Recognition – Detects and labels colors in uploaded images.
  Requirements :
  
  Hardware:
+ 
 -Huskylens AI Camera
 
 -Arduino Uno (or compatible board)
