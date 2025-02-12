@@ -1,8 +1,11 @@
 This repository contains two implementations of AI-based recognition:
 
-Huskylens with Arduino
+Huskylens with Arduino :
+
 Face Recognition – Detects and identifies faces using Huskylens AI camera.
-OpenCV with Python
+
+
+OpenCV with Python :
 Color Recognition – Detects and labels colors in uploaded images.
 
 
